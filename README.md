@@ -1,3 +1,5 @@
+This project is inactive. Submit new PRs to https://github.com/dotnwat/awesome-fuse-fs
+
 # Awesome FUSE Filesystem
 
 This is a list of resources related to [FUSE]
