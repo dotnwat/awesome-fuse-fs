@@ -97,6 +97,9 @@ content. Language: Golang.
 * [ffmpegfs](https://github.com/nschlia/ffmpegfs) - filesystem which transcodes between audio and video formats on the fly. Language: C++
 * [id3fs](http://erislabs.net/ianb/projects/id3fs/) - browsable filesystem of your music files, organised into sub-directories by id3 tags
 * [DwarFS](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
+* [sqlitefs](https://github.com/narumatt/sqlitefs) - FUSE-based file system backed by SQLite3. Language: Rust.
+* [sqlitefs](https://github.com/ris-work/sqlitefs) - FUSE-based file system backed by SQLite3, with configurable synchronization options and support for FreeBSD and NetBSD. Language: Rust, TCL (test suite).
+* [sqlitefs_temporal](https://github.com/ris-work/sqlitefs_temporal) - FUSE-based monotemporal file system backed by SQLite3, with rewind capabilities and configurable synchronization options and support for FreeBSD and NetBSD. Language: Rust, TCL (test suite).
 
 ## Posts
 
